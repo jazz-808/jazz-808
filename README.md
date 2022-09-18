@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jazz-808
+- 👋 Hi, I’m jazz
 - 👀 I’m interested in coding, and adding to the crypto space, preferably with Bitcoin & Stacks
 - 🌱 I’m currently enrolled with Clarity Universe CoHort 4
 - 💞️ I’m looking to collaborate on anything I can 🤞🏽
