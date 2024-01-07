@@ -1,8 +1,8 @@
 - 👋 Hi, I’m jazz
 - 👀 I’m interested in coding, and adding to the crypto space, preferably with Bitcoin & Stacks
-- 🌱 I’m currently enrolled with Clarity Universe CoHort 4
+- 🌱 Palenua 
 - 💞️ I’m looking to collaborate on anything I can 🤞🏽
-- 📫 How to reach me on twitter @JazminB18309723
+- 📫 X handle: @JazminB18309723
 
 <!---
 jazz-808/jazz-808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
